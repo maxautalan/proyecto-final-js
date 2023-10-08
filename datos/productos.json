@@ -1,0 +1,66 @@
+[
+    {
+        "codigo":"01",
+        "nombre": "Honda Diablo",
+        "precio": "1500000",
+        "imagen":"./img/moto1.jpg" ,
+        "descripcion": "La Moto Honda Diablo es un auténtico monstruo de la carretera diseñado para los amantes de la velocidad y la potencia. Su aspecto imponente combina elegancia y agresividad, con un chasis de acero reforzado y una carrocería aerodinámica que parece sacada de una película de ciencia ficción. Equipada con un motor V8 de 2000 cc y 300 caballos de fuerza, esta bestia puede alcanzar velocidades de hasta 300 km/h en cuestión de segundos. La suspensión electrónica ajustable y los frenos de disco dobles en las ruedas delanteras y traseras garantizan un control absoluto incluso a altas velocidades. Además, la pantalla táctil en el panel de instrumentos ofrece información en tiempo real sobre el rendimiento de la moto y la navegación."
+    },
+    {
+        "codigo":"02",
+        "nombre": "Harley Davidson Router",
+        "precio": "2000000",
+        "imagen":"./img/moto2.jpg",
+        "descripcion": "La Moto Harley Davidson Router es una revolución en movilidad sostenible. Con un diseño futurista y una carcasa de fibra de carbono, esta motocicleta eléctrica es una obra maestra de la ingeniería ecológica. Su batería de grafeno de alta capacidad permite una autonomía de hasta 400 km con una sola carga, y se recarga rápidamente gracias a la tecnología de carga solar integrada en el carenado. Además, cuenta con un motor eléctrico silencioso y potente que produce un par motor instantáneo para una aceleración suave y rápida. La tecnología de conducción autónoma opcional y el sistema de asistencia al conductor hacen que la Router sea una elección inteligente para aquellos que buscan una movilidad urbana eficiente y ecológica."
+    },
+    {
+        "codigo":"03",
+        "nombre": "Harley Davidson AK 300",
+        "precio": "4000000",
+        "imagen":"./img/moto3.jpg",
+        "descripcion": "La Moto Harley Davidson AK 300 es una máquina todoterreno diseñada para conquistar los terrenos más desafiantes. Su robusto chasis de acero y su suspensión de largo recorrido le permiten enfrentarse a obstáculos con facilidad. Equipada con un motor de 300 cc de cuatro tiempos y tracción a las cuatro ruedas, esta moto es ideal para aventuras off-road extremas. Además, cuenta con un sistema de iluminación LED de alta intensidad y una caja de carga trasera para transportar equipo adicional. Con la nueva AK 300, ningún terreno es demasiado difícil de dominar."
+    },
+    {
+        "codigo":"04",
+        "nombre": "Suzuki Desperado",
+        "precio": "4600000",
+        "imagen":"./img/moto4.jpg",
+        "descripcion": "La Suzuki Desperado es un ejemplo de estilo y lujo en dos ruedas. Su diseño minimalista y aerodinámico incorpora una carrocería de aluminio pulido y asientos de cuero acolchados. Bajo el carenado elegante se encuentra un motor V6 de 800 cc que produce un sonido de escape suave y potente. Los detalles de alta calidad, como los espejos retrovisores cromados y las llantas de aleación pulida, hacen que esta moto sea una obra de arte sobre ruedas. Además, la Desperado viene equipada con un sistema de sonido premium y conectividad Bluetooth para disfrutar de la música en cada viaje."
+    },
+    {
+        "codigo":"05",
+        "nombre": "Honda Traveller",
+        "precio": "5000000",
+        "imagen":"./img/moto5.jpg",
+        "descripcion": "Honda Traveller es una motocicleta de motocross diseñada para dominar los circuitos de competición. Su chasis de aleación de aluminio de alta resistencia es ligero y duradero, mientras que el motor de cuatro cilindros en línea de 450 cc proporciona una potencia impresionante. La suspensión ajustable y los frenos de disco de alto rendimiento ofrecen un control excepcional en las pistas de tierra más difíciles. Con una estética agresiva y gráficos personalizados, la Traveller es la elección definitiva para los pilotos de motocross de élite."
+    },
+    {
+        "codigo":"06",
+        "nombre": "Yamaha Desert Rider",
+        "precio": "5300000",
+        "imagen":"./img/moto6.jpg",
+        "descripcion":"La Yamaha Desert Rider es una moto de turismo de alto nivel diseñada para viajes épicos. Con su diseño elegante y su carenado aerodinámico, es la compañera perfecta para recorrer largas distancias. Equipada con un motor de seis cilindros en línea de 600 cc y tecnología de suspensión electrónica, proporciona una conducción suave y cómoda en cualquier carretera. La pantalla táctil en el panel de instrumentos ofrece información detallada sobre la navegación, la música y la información de viaje. Además, la amplia capacidad de almacenamiento bajo el asiento y las alforjas laterales la convierten en una opción ideal para los motociclistas que desean explorar el mundo."
+    },
+    {
+        "codigo":"07",
+        "nombre": "Harley Davidson Wings",
+        "precio": "6000000",
+        "imagen":"./img/moto7.jpg",
+        "descripcion":"La nueva Harley Davidson Wings es una moto deportiva compacta y ágil diseñada para la diversión en carretera. Con un motor de tres cilindros en línea de 300 cc y un chasis ligero, es perfecta para los conductores que buscan emociones en cada curva. Su estilo agresivo incluye un carenado de fibra de carbono y un escape de alto rendimiento que produce un sonido enérgico. Los frenos de disco con ABS y la suspensión ajustable garantizan un control total incluso en condiciones de conducción intensa. La Harley Davidson Wings es una moto que te hará sonreír cada vez que te subas a ella."
+    },
+    {
+        "codigo":"08",
+        "nombre": "Yamaha Infinity 250",
+        "precio": "7000000",
+        "imagen":"./img/moto8.jpg",
+        "descripcion": "La Moto Yamaha Infinity es una cruiser clásica con un toque misterioso. Su diseño atemporal presenta una carrocería negra mate y líneas suaves que evocan la elegancia de las motos de antaño. Equipada con un motor V-twin de 250 cc, esta moto produce un sonido de escape profundo y melódico. Los asientos de cuero y los detalles cromados añaden un toque de lujo a su estética vintage. Además, cuenta con un sistema de escape personalizado que produce un sonido único y distintivo."
+    },
+    {
+        "codigo":"09",
+        "nombre": "Harley Davidson HOG 350",
+        "precio": "7500000",
+        "imagen": "./img/moto9.jpg",
+        "descripcion": "La Harley Davidson HOG 350 es la definición de versatilidad. Con un diseño modular único, esta moto puede adaptarse a múltiples estilos de conducción. El motor de cuatro cilindros en línea de 350 cc ofrece un rendimiento excepcional, mientras que el chasis ajustable permite cambiar entre configuraciones de turismo, deportiva y cruiser. La pantalla táctil en el panel de instrumentos permite personalizar la configuración de la moto y controlar la navegación y el entretenimiento. La HOG 350 es la elección perfecta para los motoristas que quieren una moto que se adapte a su estilo de vida cambiante."
+    }
+
+]

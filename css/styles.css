@@ -1,0 +1,43 @@
+*{
+font-family: 'Belanosima', sans-serif;
+font-family: 'Manrope', sans-serif;
+box-sizing: border-box;
+border-radius: 20px;
+padding: 5px;
+scroll-behavior: smooth;
+}
+
+body{
+    background-color: whitesmoke;
+}
+#logo{
+    text-align: center;
+}
+.barra{
+    background-color: whitesmoke;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+main{
+    text-align: center;
+}
+footer{
+    background-color: crimson;
+    color: whitesmoke;
+}
+#piePagina{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+#redesSociales{
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    list-style-type: none;
+}
+ion-icon{
+    font-size: 30px;
+}
